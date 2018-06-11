@@ -1,0 +1,16 @@
+#about{
+	padding-top: 75px;
+}
+
+#features{
+	padding-top: 75px;
+}
+
+#hvclr:hover{
+	color: #4286f4;
+}
+
+main div.container.marketing div.row.featurette div.col-md-5.feature-pic img{
+	height: 300px;
+	width: 384px;
+}
