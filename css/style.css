@@ -1,16 +1,26 @@
-#about{
-	padding-top: 75px;
+#about {
+  padding-top: 75px;
 }
 
-#features{
-	padding-top: 75px;
+#features {
+  padding-top: 75px;
 }
 
-#hvclr:hover{
-	color: #4286f4;
+#hvclr:hover {
+  color: #4286f4;
 }
 
-main div.container.marketing div.row.featurette div.col-md-5.feature-pic img{
-	height: 300px;
-	width: 384px;
+main div.container.marketing div.row.featurette div.col-md-5.feature-pic img {
+  height: 300px;
+  width: 384px;
+}
+
+.blur {
+  filter: blur(10px);
+}
+
+.carousel-caption {
+  color: #d81418;
+  font-weight: 600;
+  text-shadow: -1px -1px 0 #ffffff;
 }
